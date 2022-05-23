@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+The App was created for the Shopify Intern Challenge. 
+
+User will input a question in the input box and click the button. The click creates a request to the OPENAI and 
+responds with an answer. The result and the original question are then displayed as a list. As the list grows so does the 
+green color to show the expansion of the list. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
